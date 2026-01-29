@@ -60,9 +60,9 @@ Sales contribution across pizza categories:
 
     - **By Total Orders:** Identified using order-level aggregation
 
-= **Bottom 5 Performers:**
+- **Bottom 5 Performers:**
 
-  -Highlights the least popular pizzas to support menu optimization and strategic decision-making.
+    - Highlights the least popular pizzas to support menu optimization and strategic decision-making.
 
  ## 🛠️ Tech Stack
 
