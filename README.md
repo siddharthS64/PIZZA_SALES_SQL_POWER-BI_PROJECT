@@ -34,21 +34,21 @@ Order trends across months reveal seasonal demand patterns and peak sales period
 
 - **By Category:**
 Sales contribution across pizza categories:
-
-Classic
-
-Veggie
-
-Supreme
-
-Chicken
+    
+    - Classic
+    
+    - Veggie
+    
+    - Supreme
+    
+    - Chicken
 
 - **By Size:**
-Revenue distribution by pizza size:
-
-Large (L) pizzas generate the highest revenue, contributing 45.89% of total sales.
-
-Other sizes include Medium (M), Small (S), XL, and XXL.
+    Revenue distribution by pizza size:
+    
+    - Large (L) pizzas generate the highest revenue, contributing 45.89% of total sales.
+    
+    - Other sizes include Medium (M), Small (S), XL, and XXL.
 
 ## 🏆 Product Performance
 
@@ -114,4 +114,5 @@ If you’d like to discuss this project or collaborate on data analytics work, f
 - **LinkedIn:** [Siddharth Sharma](https://www.linkedin.com/in/siddharthsh64)
 
 - **Email:** [siddharthsh064@gmail.com](mailto:siddharthsh064@gmail.com)
-  ---
+
+---
